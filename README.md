@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joswagn, Joshua Wagner
 - 👀 I’m interested in database development
 - 🌱 I’m currently learning Hadoop, Azure, and SQL
-- I’m am a recent graduate looking to further my career
+- I am a recent graduate looking to further my career
 - reach me at Joshuawagner_@outlook.com
 
 <!---
